@@ -130,9 +130,4 @@ EMAIL_PORT = 587
 EMAIL_HOST_USER = 'djangoproject4900'
 EMAIL_HOST_PASSWORD = 'django@123'
 EMAIL_USE_TLS = True
-<<<<<<< HEAD
 ALLOWED_HOSTS = ['*']
-=======
-DEFAULT_FROM_EMAIL = 'Group2 Team <admin@group2.com>'
-ALLOWED_HOSTS = ['*']
->>>>>>> c8d3cde5171f7756c9f99db02d497229d7a68666
