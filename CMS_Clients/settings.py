@@ -130,5 +130,5 @@ EMAIL_PORT = 587
 EMAIL_HOST_USER = 'kyachamaneni'
 EMAIL_HOST_PASSWORD = 'Maaruthi@123'
 EMAIL_USE_TLS = True
-DEFAULT_FROM_EMAIL = 'Epicups Team <admin@epicups.com>'
+DEFAULT_FROM_EMAIL = 'Group2 Team <admin@group2.com>'
 ALLOWED_HOSTS = ['*']
